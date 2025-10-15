@@ -64,7 +64,7 @@ Demonstrate by opening doc/index.html and navigating to class docs.
 
 6) GitHub (what to present)
 
-Show repository URL and commit history reflecting:
+Show the repository URL and commit history reflecting:
 Initial project & packages
 Added seven classes
 Added libraries
