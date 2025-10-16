@@ -1,4 +1,4 @@
-TicTacToeServer — Milestone 1 
+TicTacToeServer — Milestone 1.0
 
 This document summarizes what will be presented for the Milestone 1 demo in class and how the project is organized. 
 
